@@ -1,4 +1,4 @@
-<img width="1425" height="720" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 30 30" src="https://github.com/user-attachments/assets/81dd00bb-4300-4a54-a1d0-e951044f1ff8" /># Lab: สร้าง Todo Frontend ด้วย Next.js และ Deploy บน GitHub Pages
+Frontend ด้วย Next.js และ Deploy บน GitHub Pages
 
 ## 🎯 วัตถุประสงค์
 1. สร้าง Frontend Application ด้วย Next.js

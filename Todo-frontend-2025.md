@@ -1201,7 +1201,7 @@ https://your-username.github.io/todo-frontend/
 
 ---
 ## บันทึกรูปผลการรันหน้า Front-end
-<img width="1432" height="760" alt="ภาพถ่ายหน้าจอ 2568-10-29 เวลา 22 17 57" src="https://github.com/user-attachments/assets/a62a7604-6a68-4415-ac14-457cfa80ad07" />
+<img width="1433" height="724" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 24 55" src="https://github.com/user-attachments/assets/da66f652-6b96-4708-a1be-7b8cdfd9d87c" />
 
 
 ## ส่วนที่ 11: Troubleshooting

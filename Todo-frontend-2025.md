@@ -1397,8 +1397,21 @@ todo-frontend/
 ## ส่วนที่ 15: คำถามท้ายการทดลอง
 
 1. **CI/CD Pipeline**: อธิบายขั้นตอนใน GitHub Actions workflow
+- ขั้นตอนใน GitHub Actions Workflow
+  ```
+    1.Trigger – เริ่มทำงานเมื่อมีการ push หรือ pull_request ไปยัง branch ที่กำหนด
+    2.Checkout Code – ใช้ actions/checkout เพื่อดึงโค้ดจาก GitHub มายัง runner
+    3.Setup Environment – ติดตั้ง Node.js หรือเครื่องมือที่ต้องใช้ (actions/setup-node)
+    4.Install Dependencies – ติดตั้งแพ็กเกจทั้งหมดด้วย npm ci
+    5.Run Lint/Test – ตรวจสอบคุณภาพโค้ดด้วย npm run lint และรันทดสอบ
+    6.Build Project – รัน npm run build เพื่อสร้างไฟล์ static (ในโฟลเดอร์ out/)
+    7.Upload Artifact – อัปโหลดผลลัพธ์ build เพื่อเตรียม deploy
+    8.Deploy to GitHub Pages – ใช้ actions/deploy-pages เพื่อนำเว็บไซต์ขึ้น GitHub Pages โดยอัตโนมัติ
+  ```
 2. **CORS**: ทำไม Backend ต้อง enable CORS สำหรับ Frontend
-
+  - ป้องกันการถูกบล็อกโดย Browser – ถ้า Frontend (localhost:3000) เรียก API จาก Backend (localhost:5000) โดยไม่เปิด CORS จะถูกเบราว์เซอร์บล็อกทันที
+  - อนุญาตการสื่อสารระหว่างโดเมน – Backend ต้องบอกเบราว์เซอร์ว่า "อนุญาตให้เว็บนี้เข้าถึง API ได้" ผ่าน header เช่นAccess-Control-Allow-Origin: https://username.github.io
+  - รองรับ Frontend ที่ deploy แยกจาก Backend – เช่น Frontend อยู่บน GitHub Pages แต่ Backend อยู่บน Render
 
 ## ส่วนที่ 16: แหล่งข้อมูลเพิ่มเติม
 

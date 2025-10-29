@@ -1396,7 +1396,7 @@ api ใช้งานได้ปกติ status ขึ้นถูกต้�
 <img width="1433" height="724" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 24 55" src="https://github.com/user-attachments/assets/58b43d5a-9937-44ff-a8f8-2f048396fe62" />
 <img width="1440" height="757" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 25 43" src="https://github.com/user-attachments/assets/aa326212-9427-431c-b18b-26b7253fdf2b" />
 <img width="1425" height="720" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 30 30" src="https://github.com/user-attachments/assets/2544450b-5018-41af-88b7-d75c40aa6552" />
-# มีการเเก้ไข repo flask-todo-cicd ```https://github.com/Ice-Ittikorn/flask-todo-cicd.git``` ให้สามารถ deploy reailway ได้ 
+### มีการเเก้ไข repo flask-todo-cicd ```https://github.com/Ice-Ittikorn/flask-todo-cicd.git``` ให้สามารถ deploy reailway ได้ 
 <img width="1437" height="662" alt="ภาพถ่ายหน้าจอ 2568-10-30 เวลา 00 33 05" src="https://github.com/user-attachments/assets/60bd2f86-1f39-48fe-bf5e-06686d2d9d46" />
 ขออณุญาตไม่เเก้ไข repo: Todo-list-CICD-2025 ```https://github.com/surachai-p/Todo-list-CICD-2025/pull/36``` เนื่องจาก pull reques ไปเเล้วเเละไม่ทราบว่าอาจาร์ยตรวจหรือยังจึงข้อส่งใน repo นี้เเทน
 

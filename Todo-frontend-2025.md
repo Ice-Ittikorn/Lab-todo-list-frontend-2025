@@ -1058,9 +1058,8 @@ npm run dev
 - ✅ UI สวยงาม มี animations
 
 ## บันทึกรูปผลการทดลอง
-```bash
-# บันทึกรูปผลการทดลองที่นี่
-``` 
+<img width="1440" height="865" alt="ภาพถ่ายหน้าจอ 2568-10-29 เวลา 22 02 28" src="https://github.com/user-attachments/assets/b33f24fe-fb11-4a08-ad9c-ebfa4077df97" />
+
 
 ### ขั้นตอนที่ 8.4: Test Build
 
@@ -1172,9 +1171,8 @@ git push origin main
 
 
 ## บันทึกรูปผลการ Deploy
-```bash
-# บันทึกรูปผลการ Deploy ที่นี่
-```
+<img width="1440" height="671" alt="ภาพถ่ายหน้าจอ 2568-10-29 เวลา 22 19 59" src="https://github.com/user-attachments/assets/0d631d33-7e91-4bda-bb1a-dae2a7829995" />
+
 
 ### ขั้นตอนที่ 10.3: หา URL ของ Website
 
@@ -1203,9 +1201,8 @@ https://your-username.github.io/todo-frontend/
 
 ---
 ## บันทึกรูปผลการรันหน้า Front-end
-```bash
-# บันทึกรูปผลการรันหน้า Front-end ที่นี่
-```
+<img width="1432" height="760" alt="ภาพถ่ายหน้าจอ 2568-10-29 เวลา 22 17 57" src="https://github.com/user-attachments/assets/a62a7604-6a68-4415-ac14-457cfa80ad07" />
+
 
 ## ส่วนที่ 11: Troubleshooting
 
@@ -1430,8 +1427,8 @@ todo-frontend/
 
 ## สรุป
 **URL ของนักศึกษาคือ**:
-- Frontend: `https://your-username.github.io/todo-frontend/`
-- Backend: `https://your-backend.onrender.com`
+- Frontend: `https://ice-ittikorn.github.io/todo-frontend/`
+- Backend: `https://flask-todo-cicd-a1sq.onrender.com`
 
 ---
 
